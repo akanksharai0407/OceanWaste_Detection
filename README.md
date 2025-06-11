@@ -6,7 +6,7 @@ This project uses object detection models (YOLOv5 and Faster R-CNN) to detect an
 
 ##  Models Used
 - YOLOv5
-- Faster R-CNN (via Detectron2)
+- Faster R-CNN
 
 ##  Folders
 - `data/` - Dataset files (images + annotations)
