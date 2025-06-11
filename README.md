@@ -1,4 +1,4 @@
-# OceanWasteNet
+# OceanWaste_Detection
 Detecting and Classifying Ocean Trash using YOLOv5 and Faster R-CNN
 
 ## Project Description
